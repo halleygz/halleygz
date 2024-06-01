@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halleygz&theme=dark&show_icons=true&locale=en" alt="halleygz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halleygz&theme=dark" alt="halleygz" /></p>
+
 
 
 <!--
