@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [halleygz.github.io](https://halleygz.github.io/)
 
 - 📫 How to reach me **halleluya.mulugeta@gmail.com**
-- [Resume](https://halleygz.github.io)
+- [Resume](https://drive.google.com/file/d/1mPkrRaSY3avtdDXnVCSJB8JnkYz0maLp/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
