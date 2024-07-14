@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halleluya</h1>
 <h3 align="center">A Fullstack Developer.</h3>
 
-- 🔭 I’m currently working on [Blogging app](https://github.com/halleygz/Directed-project)
+- 🔭 I’m currently working on [Blogging app](https://github.com/halleygz/blog-v2)
 
 - 🌱 I’m currently learning **MERN**
 
