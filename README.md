@@ -5,12 +5,13 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [halleygz.github.io](https://halleygz.github.io/)
+- 👨‍💻 All of my projects are available at [halleym.me](https://halleym.me/)
 
 - 📫 How to reach me **halleluya.mulugeta@gmail.com**
 - [Resume](https://drive.google.com/file/d/1mPkrRaSY3avtdDXnVCSJB8JnkYz0maLp/view)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/halleluya-mulugeta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Halleluya Mulugeta" height="30" width="40" /></a>
 <a href="https://t.me/hallemulugeta" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="Halleluya Mulugeta" height="40" width="40" /></a>
