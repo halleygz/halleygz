@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Halleluya</h1>
 <h3 align="center">A Fullstack Developer.</h3>
 
-- 🔭 I’m currently working on [Blogging app](https://github.com/halleygz/blog-v3) and [Fusion-ai](https://github.com/halleygz/fusion-ai)
+- Working on automation tools.
 
-- 🌱 I’m currently learning **MERN**
-
-- 👨‍💻 All of my projects are available at [halleym.me](https://halleym.me/)
+- All of my projects are available at [halleygz.vercel.app](https://halleygz.vercel.app/)
 
 - 📫 How to reach me **halleluya.mulugeta@gmail.com**
 - [Resume](https://drive.google.com/file/d/1mPkrRaSY3avtdDXnVCSJB8JnkYz0maLp/view)
