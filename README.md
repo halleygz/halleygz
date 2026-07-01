@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Halleluya</h1>
-<h3 align="center">A Fullstack Developer.</h3>
+<h1 align="center">Hi, I'm Halleluya</h1>
+<h3 align="center">A TypeScript Developer.</h3>
 
 - Working on automation tools.
 
-- All of my projects are available at [halleygz.vercel.app](https://halleygz.vercel.app/)
+- Checkout my portfolio at [halleygz.vercel.app](https://halleygz.vercel.app/)
 
 - 📫 How to reach me **halleluya.mulugeta@gmail.com**
 - [Resume](https://drive.google.com/file/d/1mPkrRaSY3avtdDXnVCSJB8JnkYz0maLp/view)
